@@ -1,4 +1,4 @@
-- 👋 Hello 
+- 👋 Hello! 
 
 - 📚 I'm currently learning full-stack web development via The Odin Project. I'm motivated to learn fast and become a valuable team member.
 
