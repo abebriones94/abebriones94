@@ -1,14 +1,14 @@
 - 👋 Hello 
 
-I'm currently learning full-stack web development via The Odin Project. I'm motivated to learn fast and become a valuable team member.
+- 📚 I'm currently learning full-stack web development via The Odin Project. I'm motivated to learn fast and become a valuable team member.
 
-💬 If you are interested, I would be glad to have a conversation.
+- 💬 If you are interested, I would be glad to have a conversation.
 
-LinkedIn: /in/abraham-briones-8045b1244/ 
+- 💻 LinkedIn: /in/abraham-briones-8045b1244/ 
+
+- 🧰 Languages and Tools: JavaScript CSS  HTM React Git GitHub Windows VSCode Prietter
 
 
-🧰 Languages and Tools:
-JavaScript CSS  HTM React Git GitHub Windows VSCode Prietter
 
 
 <!---
