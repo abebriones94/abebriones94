@@ -6,7 +6,7 @@
 
 - 💻 LinkedIn: /in/abraham-briones-8045b1244/ 
 
-- 🧰 Languages and Tools: JavaScript CSS  HTM React Git GitHub Windows VSCode Prietter
+- 🧰 Languages and Tools: JavaScript CSS HTML React Vite Tailwind Bootstrap Git GitHub VSCode 
 
 
 
