@@ -1,6 +1,6 @@
 - 👋 Hello there! 
 
-- 📚 I have been self-teaching myself Full Stack Development since August 2022. I'm motivated to learn non-stop and become a valuable team member.
+- 📚 I have been self-teaching myself Software Development since August 2022. I'm motivated to learn non-stop and become a valuable team member.
 
 - 💬 If you are interested, I would be glad to have a conversation.
 
