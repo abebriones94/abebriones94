@@ -1,9 +1,10 @@
 - 👋 Hello there! 
 
-- 📚 I am an enthusiastic software developer with a strong desire to continuously learn and improve my skills. I have been self-teaching myself software development           since Summer 2022 and am eager to apply my knowledge as a valuable team member.
+- 📚 I am an enthusiastic aspiring software developer with a strong desire to continuously learn and improve my skills. I have been self-teaching myself software              development since Summer 2022 and am eager to apply my knowledge as a valuable team member.
 
 - 💬 I am open to having a conversation about potential opportunities.
-     You can view my LinkedIn profile at /in/abraham-briones-8045b1244/
+
+- 💻 You can view my LinkedIn profile at /in/abraham-briones-8045b1244/
 
 - 🧰 My proficiency with the following languages and tools:
 
