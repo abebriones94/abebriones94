@@ -1,12 +1,22 @@
 - 👋 Hello there! 
 
-- 📚 I have been self-teaching myself Software Development since August 2022. I'm motivated to learn non-stop and become a valuable team member.
+- 📚 I am an enthusiastic software developer with a strong desire to continuously learn and improve my skills. I have been self-teaching myself software development           since Summer 2022 and am eager to apply my knowledge as a valuable team member.
 
-- 💬 If you are interested, I would be glad to have a conversation.
+- 💬 I am open to having a conversation about potential opportunities.
+     You can view my LinkedIn profile at /in/abraham-briones-8045b1244/
 
-- 💻 LinkedIn: /in/abraham-briones-8045b1244/ 
+- 🧰 My proficiency with the following languages and tools:
 
-- 🧰 Languages and Tools: JavaScript CSS HTML C# React Visual Studio Bootstrap Git GitHub VSCode 
+      JavaScript
+      CSS
+      HTML
+      C#
+      React
+      Visual Studio
+      Bootstrap
+      Git
+      GitHub
+      VSCode
 
 
 
