@@ -14,7 +14,7 @@
       C#
       React
       Visual Studio
-      Bootstrap
+      Tailwind
       Git
       GitHub
       VSCode
