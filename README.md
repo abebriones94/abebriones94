@@ -4,7 +4,7 @@
 
 - 💬 I am open to having a conversation about potential opportunities.
 
-- 💻 You can view my LinkedIn profile at /in/abraham-briones-8045b1244/
+- 💻 You can view my LinkedIn profile at [/in/abraham-briones-8045b1244/](https://www.linkedin.com/in/abebriones/)
 
 - 🧰 My proficiency with the following languages and tools:
 
